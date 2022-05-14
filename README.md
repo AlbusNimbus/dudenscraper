@@ -1,3 +1,3 @@
-# dudenscraper
-# install playwright API
+# Duden-Scraper
+# to install playwright API
 # npm i playwright
